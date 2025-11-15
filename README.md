@@ -24,3 +24,15 @@ Compatible Windows & Mac
 
 ➡️ Téléchargez la dernière version ici :
 👉 https://github.com/massacer69985/Vote-Auto-REG/releases
+
+💾 Sauvegarde automatique
+
+L’application charge automatiquement settings.json si présent.
+Elle en crée un nouveau lorsqu’on utilise « Sauvegarder ».
+
+❓ Support
+
+En cas de bug ou suggestion :
+👉 Ouvrez un Issue sur GitHub.
+
+✨ Merci d'utiliser Vote Automatique !
